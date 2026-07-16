@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="560" viewBox="0 0 860 560">
+<style>text{font-family:Arial,sans-serif;fill:#111827}.tick{font-size:12px;fill:#4b5563}.label{font-size:14px;font-weight:600}.title{font-size:21px;font-weight:700}.caption{font-size:12px;fill:#4b5563}</style>
+<rect width="100%" height="100%" fill="#fff"/>
+<text class="title" x="430.0" y="32" text-anchor="middle">Local 4090 IsoFLOPs Dataset-Size Scaling</text>
+<rect x="92" y="58" width="732" height="426" fill="#f8fafc" stroke="#cbd5e1"/>
+<line x1="92.00" y1="58" x2="92.00" y2="484" stroke="#e5e7eb"/>
+<text class="tick" x="92.00" y="506" text-anchor="middle">1e9</text>
+<line x1="336.00" y1="58" x2="336.00" y2="484" stroke="#e5e7eb"/>
+<text class="tick" x="336.00" y="506" text-anchor="middle">1e10</text>
+<line x1="580.00" y1="58" x2="580.00" y2="484" stroke="#e5e7eb"/>
+<text class="tick" x="580.00" y="506" text-anchor="middle">1e11</text>
+<line x1="824.00" y1="58" x2="824.00" y2="484" stroke="#e5e7eb"/>
+<text class="tick" x="824.00" y="506" text-anchor="middle">1e12</text>
+<line x1="92" y1="484.00" x2="824" y2="484.00" stroke="#e5e7eb"/>
+<text class="tick" x="82" y="488.00" text-anchor="end">1e4</text>
+<line x1="92" y1="377.50" x2="824" y2="377.50" stroke="#e5e7eb"/>
+<text class="tick" x="82" y="381.50" text-anchor="end">1e5</text>
+<line x1="92" y1="271.00" x2="824" y2="271.00" stroke="#e5e7eb"/>
+<text class="tick" x="82" y="275.00" text-anchor="end">1e6</text>
+<line x1="92" y1="164.50" x2="824" y2="164.50" stroke="#e5e7eb"/>
+<text class="tick" x="82" y="168.50" text-anchor="end">1e7</text>
+<line x1="92" y1="58.00" x2="824" y2="58.00" stroke="#e5e7eb"/>
+<text class="tick" x="82" y="62.00" text-anchor="end">1e8</text>
+<path d="M 92.00 406.00 L 98.15 403.32 L 104.30 400.63 L 110.45 397.94 L 116.61 395.25 L 122.76 392.57 L 128.91 389.88 L 135.06 387.19 L 141.21 384.51 L 147.36 381.82 L 153.51 379.13 L 159.66 376.44 L 165.82 373.76 L 171.97 371.07 L 178.12 368.38 L 184.27 365.70 L 190.42 363.01 L 196.57 360.32 L 202.72 357.63 L 208.87 354.95 L 215.03 352.26 L 221.18 349.57 L 227.33 346.88 L 233.48 344.20 L 239.63 341.51 L 245.78 338.82 L 251.93 336.14 L 258.08 333.45 L 264.24 330.76 L 270.39 328.07 L 276.54 325.39 L 282.69 322.70 L 288.84 320.01 L 294.99 317.33 L 301.14 314.64 L 307.29 311.95 L 313.45 309.26 L 319.60 306.58 L 325.75 303.89 L 331.90 301.20 L 338.05 298.52 L 344.20 295.83 L 350.35 293.14 L 356.50 290.45 L 362.66 287.77 L 368.81 285.08 L 374.96 282.39 L 381.11 279.71 L 387.26 277.02 L 393.41 274.33 L 399.56 271.64 L 405.71 268.96 L 411.87 266.27 L 418.02 263.58 L 424.17 260.90 L 430.32 258.21 L 436.47 255.52 L 442.62 252.83 L 448.77 250.15 L 454.92 247.46 L 461.08 244.77 L 467.23 242.09 L 473.38 239.40 L 479.53 236.71 L 485.68 234.02 L 491.83 231.34 L 497.98 228.65 L 504.13 225.96 L 510.29 223.28 L 516.44 220.59 L 522.59 217.90 L 528.74 215.21 L 534.89 212.53 L 541.04 209.84 L 547.19 207.15 L 553.34 204.46 L 559.50 201.78 L 565.65 199.09 L 571.80 196.40 L 577.95 193.72 L 584.10 191.03 L 590.25 188.34 L 596.40 185.65 L 602.55 182.97 L 608.71 180.28 L 614.86 177.59 L 621.01 174.91 L 627.16 172.22 L 633.31 169.53 L 639.46 166.84 L 645.61 164.16 L 651.76 161.47 L 657.92 158.78 L 664.07 156.10 L 670.22 153.41 L 676.37 150.72 L 682.52 148.03 L 688.67 145.35 L 694.82 142.66 L 700.97 139.97 L 707.13 137.29 L 713.28 134.60 L 719.43 131.91 L 725.58 129.22 L 731.73 126.54 L 737.88 123.85 L 744.03 121.16 L 750.18 118.48 L 756.34 115.79 L 762.49 113.10 L 768.64 110.41 L 774.79 107.73 L 780.94 105.04 L 787.09 102.35 L 793.24 99.67 L 799.39 96.98 L 805.55 94.29 L 811.70 91.60 L 817.85 88.92 L 824.00 86.23" fill="none" stroke="#2563eb" stroke-width="3"/>
+<circle cx="208.42" cy="355.25" r="5.5" fill="#dc2626"/>
+<circle cx="336.00" cy="299.36" r="5.5" fill="#dc2626"/>
+<circle cx="452.42" cy="248.48" r="5.5" fill="#dc2626"/>
+<circle cx="580.00" cy="192.79" r="5.5" fill="#dc2626"/>
+<circle cx="696.42" cy="141.97" r="5.5" fill="#dc2626"/>
+<circle cx="824.00" cy="86.28" r="5.5" fill="#dc2626"/>
+<line x1="824.00" y1="58" x2="824.00" y2="484" stroke="#64748b" stroke-dasharray="6 5"/>
+<text class="label" x="458.0" y="536" text-anchor="middle">Compute C = 6ND, log scale</text>
+<text class="label" x="24" y="271.0" text-anchor="middle" transform="rotate(-90 24 271.0)">D_opt train tokens</text>
+<text class="caption" x="92" y="512">log10(y) = -4.2753 + 1.0009 log10(C), R2 = 1.0000</text>
+</svg>

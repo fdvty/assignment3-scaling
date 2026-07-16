@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620">
+<style>
+text { font-family: Arial, sans-serif; fill: #202124; }
+.tick { font-size: 12px; fill: #4b5563; }
+.axis-label { font-size: 15px; font-weight: 600; }
+.title { font-size: 22px; font-weight: 700; }
+.caption { font-size: 13px; fill: #4b5563; }
+</style>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text class="title" x="450.0" y="32" text-anchor="middle">IsoFLOPs Scaling Law for Model Size</text>
+<rect x="96" y="62" width="768" height="476" fill="#f8fafc" stroke="#cbd5e1"/>
+<line x1="96.00" y1="62" x2="96.00" y2="538" stroke="#e2e8f0"/>
+<text class="tick" x="96.00" y="562" text-anchor="middle">1e18</text>
+<line x1="224.00" y1="62" x2="224.00" y2="538" stroke="#e2e8f0"/>
+<text class="tick" x="224.00" y="562" text-anchor="middle">1e19</text>
+<line x1="352.00" y1="62" x2="352.00" y2="538" stroke="#e2e8f0"/>
+<text class="tick" x="352.00" y="562" text-anchor="middle">1e20</text>
+<line x1="480.00" y1="62" x2="480.00" y2="538" stroke="#e2e8f0"/>
+<text class="tick" x="480.00" y="562" text-anchor="middle">1e21</text>
+<line x1="608.00" y1="62" x2="608.00" y2="538" stroke="#e2e8f0"/>
+<text class="tick" x="608.00" y="562" text-anchor="middle">1e22</text>
+<line x1="736.00" y1="62" x2="736.00" y2="538" stroke="#e2e8f0"/>
+<text class="tick" x="736.00" y="562" text-anchor="middle">1e23</text>
+<line x1="864.00" y1="62" x2="864.00" y2="538" stroke="#e2e8f0"/>
+<text class="tick" x="864.00" y="562" text-anchor="middle">1e24</text>
+<line x1="96" y1="538.00" x2="864" y2="538.00" stroke="#e2e8f0"/>
+<text class="tick" x="84" y="542.00" text-anchor="end">1e8</text>
+<line x1="96" y1="419.00" x2="864" y2="419.00" stroke="#e2e8f0"/>
+<text class="tick" x="84" y="423.00" text-anchor="end">1e9</text>
+<line x1="96" y1="300.00" x2="864" y2="300.00" stroke="#e2e8f0"/>
+<text class="tick" x="84" y="304.00" text-anchor="end">1e10</text>
+<line x1="96" y1="181.00" x2="864" y2="181.00" stroke="#e2e8f0"/>
+<text class="tick" x="84" y="185.00" text-anchor="end">1e11</text>
+<line x1="96" y1="62.00" x2="864" y2="62.00" stroke="#e2e8f0"/>
+<text class="tick" x="84" y="66.00" text-anchor="end">1e12</text>
+<path d="M 96.00 478.26 L 100.83 476.15 L 105.66 474.05 L 110.49 471.95 L 115.32 469.84 L 120.15 467.74 L 124.98 465.63 L 129.81 463.53 L 134.64 461.42 L 139.47 459.32 L 144.30 457.21 L 149.13 455.11 L 153.96 453.00 L 158.79 450.90 L 163.62 448.79 L 168.45 446.69 L 173.28 444.59 L 178.11 442.48 L 182.94 440.38 L 187.77 438.27 L 192.60 436.17 L 197.43 434.06 L 202.26 431.96 L 207.09 429.85 L 211.92 427.75 L 216.75 425.64 L 221.58 423.54 L 226.42 421.43 L 231.25 419.33 L 236.08 417.22 L 240.91 415.12 L 245.74 413.02 L 250.57 410.91 L 255.40 408.81 L 260.23 406.70 L 265.06 404.60 L 269.89 402.49 L 274.72 400.39 L 279.55 398.28 L 284.38 396.18 L 289.21 394.07 L 294.04 391.97 L 298.87 389.86 L 303.70 387.76 L 308.53 385.65 L 313.36 383.55 L 318.19 381.45 L 323.02 379.34 L 327.85 377.24 L 332.68 375.13 L 337.51 373.03 L 342.34 370.92 L 347.17 368.82 L 352.00 366.71 L 356.83 364.61 L 361.66 362.50 L 366.49 360.40 L 371.32 358.29 L 376.15 356.19 L 380.98 354.09 L 385.81 351.98 L 390.64 349.88 L 395.47 347.77 L 400.30 345.67 L 405.13 343.56 L 409.96 341.46 L 414.79 339.35 L 419.62 337.25 L 424.45 335.14 L 429.28 333.04 L 434.11 330.93 L 438.94 328.83 L 443.77 326.72 L 448.60 324.62 L 453.43 322.52 L 458.26 320.41 L 463.09 318.31 L 467.92 316.20 L 472.75 314.10 L 477.58 311.99 L 482.42 309.89 L 487.25 307.78 L 492.08 305.68 L 496.91 303.57 L 501.74 301.47 L 506.57 299.36 L 511.40 297.26 L 516.23 295.15 L 521.06 293.05 L 525.89 290.95 L 530.72 288.84 L 535.55 286.74 L 540.38 284.63 L 545.21 282.53 L 550.04 280.42 L 554.87 278.32 L 559.70 276.21 L 564.53 274.11 L 569.36 272.00 L 574.19 269.90 L 579.02 267.79 L 583.85 265.69 L 588.68 263.59 L 593.51 261.48 L 598.34 259.38 L 603.17 257.27 L 608.00 255.17 L 612.83 253.06 L 617.66 250.96 L 622.49 248.85 L 627.32 246.75 L 632.15 244.64 L 636.98 242.54 L 641.81 240.43 L 646.64 238.33 L 651.47 236.22 L 656.30 234.12 L 661.13 232.02 L 665.96 229.91 L 670.79 227.81 L 675.62 225.70 L 680.45 223.60 L 685.28 221.49 L 690.11 219.39 L 694.94 217.28 L 699.77 215.18 L 704.60 213.07 L 709.43 210.97 L 714.26 208.86 L 719.09 206.76 L 723.92 204.65 L 728.75 202.55 L 733.58 200.45 L 738.42 198.34 L 743.25 196.24 L 748.08 194.13 L 752.91 192.03 L 757.74 189.92 L 762.57 187.82 L 767.40 185.71 L 772.23 183.61 L 777.06 181.50 L 781.89 179.40 L 786.72 177.29 L 791.55 175.19 L 796.38 173.09 L 801.21 170.98 L 806.04 168.88 L 810.87 166.77 L 815.70 164.67 L 820.53 162.56 L 825.36 160.46 L 830.19 158.35 L 835.02 156.25 L 839.85 154.14 L 844.68 152.04 L 849.51 149.93 L 854.34 147.83 L 859.17 145.72 L 864.00 143.62" fill="none" stroke="#2563eb" stroke-width="3"/>
+<circle cx="195.60" cy="433.04" r="5.5" fill="#dc2626" stroke="#7f1d1d" stroke-width="1"/>
+<title>C=6.0000e+18, value=7.6209e+08</title>
+<circle cx="224.00" cy="430.10" r="5.5" fill="#dc2626" stroke="#7f1d1d" stroke-width="1"/>
+<title>C=1.0000e+19, value=8.0665e+08</title>
+<circle cx="285.07" cy="396.79" r="5.5" fill="#dc2626" stroke="#7f1d1d" stroke-width="1"/>
+<title>C=3.0000e+19, value=1.5369e+09</title>
+<circle cx="323.60" cy="384.43" r="5.5" fill="#dc2626" stroke="#7f1d1d" stroke-width="1"/>
+<title>C=6.0000e+19, value=1.9520e+09</title>
+<circle cx="352.00" cy="358.03" r="5.5" fill="#dc2626" stroke="#7f1d1d" stroke-width="1"/>
+<title>C=1.0000e+20, value=3.2534e+09</title>
+<circle cx="413.07" cy="327.24" r="5.5" fill="#dc2626" stroke="#7f1d1d" stroke-width="1"/>
+<title>C=3.0000e+20, value=5.9038e+09</title>
+<circle cx="451.60" cy="318.65" r="5.5" fill="#dc2626" stroke="#7f1d1d" stroke-width="1"/>
+<title>C=6.0000e+20, value=6.9711e+09</title>
+<circle cx="480.00" cy="319.48" r="5.5" fill="#dc2626" stroke="#7f1d1d" stroke-width="1"/>
+<title>C=1.0000e+21, value=6.8593e+09</title>
+<circle cx="541.07" cy="289.94" r="5.5" fill="#dc2626" stroke="#7f1d1d" stroke-width="1"/>
+<title>C=3.0000e+21, value=1.2149e+10</title>
+<line x1="736.00" y1="62" x2="736.00" y2="538" stroke="#64748b" stroke-dasharray="6 5"/>
+<line x1="864.00" y1="62" x2="864.00" y2="538" stroke="#64748b" stroke-dasharray="6 5"/>
+<line x1="96" y1="538" x2="864" y2="538" stroke="#0f172a" stroke-width="1.5"/>
+<line x1="96" y1="62" x2="96" y2="538" stroke="#0f172a" stroke-width="1.5"/>
+<text class="axis-label" x="480.0" y="596" text-anchor="middle">Compute budget C (FLOPs, log scale)</text>
+<text class="axis-label" x="22" y="300.0" text-anchor="middle" transform="rotate(-90 22 300.0)">N_opt parameters (log scale)</text>
+<text class="caption" x="96" y="566">Red points: lowest-loss run per IsoFLOPs profile. Blue line: log-log least-squares power law. Dashed lines: 1e23 and 1e24 FLOPs.</text>
+<text class="caption" x="96" y="582">Fit: log10(y) = 0.0657 + 0.4687 log10(C), R2(log10) = 0.9787</text>
+</svg>
